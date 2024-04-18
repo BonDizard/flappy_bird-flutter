@@ -1,4 +1,4 @@
-# dino_run
+# fappy_bird
 
 A new Flutter project.
 
